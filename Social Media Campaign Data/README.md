@@ -1,5 +1,7 @@
 # Data Analysis on Social Media Campaign Data
 
+[My other excel and powerBI projects](https://github.com/ZehraArshad/Excel_PowerBI_Github/tree/main)
+
 ## Data Cleaning: <br/>
 * Campaign Column had "*Increaese$sales" 
     * Fixed that using the substitute column
